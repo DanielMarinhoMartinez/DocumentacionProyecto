@@ -1,5 +1,5 @@
 site_name: Documentacion_Proyecto
-site_url: https://DanielMarinhoMartinez.github.io/Documentacion_Proyecto/
+site_url: https://DanielMarinhoMartinez.github.io/DocumentacionProyecto/
 
 # docs es donde se encuentran los archivos de entrada (archivos .md y .pdf)
 docs_dir: 'docs'
@@ -16,4 +16,6 @@ nav:
 
 theme:
   name: 'material'
+
+
 
